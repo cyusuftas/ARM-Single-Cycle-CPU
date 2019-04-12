@@ -4,7 +4,7 @@ Necessary modules and schematic files are added. It can process following instru
 It can be further improved by changing datapath and controller according to desired instruction.  
 
 Datapath: 
-![alt text](https://raw.githubusercontent.com/cyusuftas/ARM-Single-Cycle-CPU/datapath.png)
+![alt text](https://github.com/cyusuftas/ARM-Single-Cycle-CPU/blob/master/datapath.PNG?raw=true)
 
 Example instructions:
-![alt text](https://raw.githubusercontent.com/cyusuftas/ARM-Single-Cycle-CPU/ADD_SUB_AND_OR_LSL_LSR.png)
+![alt text](https://github.com/cyusuftas/ARM-Single-Cycle-CPU/blob/master/ADD_SUB_AND_OR_LSL_LSR.PNG?raw=true)
